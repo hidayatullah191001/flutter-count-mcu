@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1056283525123",
+    "firebase_url": "https://countnodemcu-default-rtdb.firebaseio.com",
+    "project_id": "countnodemcu",
+    "storage_bucket": "countnodemcu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056283525123:android:7290083ca732574c23ce36",
+        "android_client_info": {
+          "package_name": "com.example.flutter_mcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056283525123-n18rblh6vfp1ct4ibeb1nd1dh4rtfpnq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXHG5PpFMi6PEzsDvvZw5UwOKnCocZdfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056283525123-n18rblh6vfp1ct4ibeb1nd1dh4rtfpnq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
