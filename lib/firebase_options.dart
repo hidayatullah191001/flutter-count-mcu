@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAXHG5PpFMi6PEzsDvvZw5UwOKnCocZdfM',
-    appId: '1:1056283525123:android:7290083ca732574c23ce36',
-    messagingSenderId: '1056283525123',
-    projectId: 'countnodemcu',
-    databaseURL: 'https://countnodemcu-default-rtdb.firebaseio.com',
-    storageBucket: 'countnodemcu.appspot.com',
+    apiKey: '########################',
+    appId: '##############################',
+    messagingSenderId: '########################',
+    projectId: '########################',
+    databaseURL: '########################',
+    storageBucket: '########################',
   );
 }
